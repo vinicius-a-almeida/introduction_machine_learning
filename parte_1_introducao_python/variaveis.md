@@ -74,7 +74,7 @@ lista = [1, 2, 3, 4, 5]
 ```
 
 #### Tupla (tuple)
-
+//aqui poderia explicar melhor a diferença de lista e tupla, pois parecem que são a mesma coisa
 O tipo tupla é utilizado para representar uma coleção de valores. Em Python, uma tupla pode conter valores de tipos diferentes.
 
 ```python
